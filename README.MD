@@ -17,3 +17,13 @@ The structure of the JSON data is as follows.
   ...
 }
 ```
+
+# Progress
+Data for years 2011 - 2013 is being normalized. All of the scripts are complete to normalize this data in CSV format. All that's currently left is downloading and formatting the monthly information.
+
+The process for normalizing a dataset is currently
+```
+cd <folder>
+sh ../../scripts/excel_to_csv.sh 
+sh ../../scripts/format_csv_files.sh
+```
