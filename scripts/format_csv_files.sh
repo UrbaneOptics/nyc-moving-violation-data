@@ -52,3 +52,9 @@ echo "Removing the text 'November'"
 LC_ALL=C find . -type f -name '*.csv' -exec sed -i '' s/November\,\,// {} +
 echo "Removing the text 'December'"
 LC_ALL=C find . -type f -name '*.csv' -exec sed -i '' s/December\,\,// {} +
+
+csv_files=(*.csv)
+for i in "${csv_files[@]}"
+do
+	ruby parse_csv.rb $i
+done
