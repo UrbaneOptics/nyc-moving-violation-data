@@ -19,7 +19,10 @@ The structure of the JSON data is as follows.
 ```
 
 # Progress
-Data for years 2011 - 2013 is being normalized. All of the scripts are complete to normalize this data in CSV format. All that's currently left is downloading and formatting the monthly information.
+Data for years 2011 - 2013 is being normalized. All of the scripts are complete to normalize this data in CSV format. All that's currently left is converting the monthly information to a standardized JSON format.
+
+For the years 2014 onwards, more work is needed since some formats changed in the data. The CSV's are mostly formatted and still need to be converted to JSON.
+
 
 The process for normalizing a dataset is currently
 ```
