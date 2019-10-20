@@ -5,6 +5,7 @@ formatted_csv = []
 
 x.each_with_index do |line, idx|
   next if line.empty?
+  next if line[0].include?("is a citywide unit")
   if line.include?("\nBacking Unsafely")
     line[0].sub!("\nBacking", "Backing")
     line[1].sub!("\n", "")

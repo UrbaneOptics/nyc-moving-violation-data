@@ -1,8 +1,6 @@
 # Removing all 'preliminary text'
 echo "Removing all 'preliminary text'"
 LC_ALL=C find . -type f -name '*.csv' -exec sed -i '' s/"\"\*\ All\ figures\ are\ preliminary\ and\ subject\ to\ change\."\"\,\,// {} +
-LC_ALL=C find . -type f -name '*.csv' -exec sed -i '' s/"\"\*Transportation\ Bureau\ is\ a\ citywide\ unit\ whose\ activity\ is\ not\ tracked\ by\ Precinct\."\"\,\,// {} +
-LC_ALL=C find . -type f -name '*.csv' -exec sed -i '' s/"\"\*Housing Bureau is a citywide unit whose activity is not tracked by Precinct\."\"\,\,// {} +
 
 # Removing unnecessary text
 echo "Removing unnecessary text"

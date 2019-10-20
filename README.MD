@@ -27,3 +27,15 @@ cd <folder>
 sh ../../scripts/excel_to_csv.sh 
 sh ../../scripts/format_csv_files.sh
 ```
+
+To process all folders, from the `/data/ directory, run the following:
+```
+folders=(*.csv)
+for i in "${folders[@]}"
+do
+  cd $i
+  sh ../../scripts/excel_to_csv.sh 
+  sh ../../scripts/format_csv_files.sh
+  cd ..
+done
+```
