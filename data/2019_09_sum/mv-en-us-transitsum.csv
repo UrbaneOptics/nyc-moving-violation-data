@@ -1,5 +1,4 @@
 Transit Bureau,,
-"","",""
 Backing Unsafely,0,0
 Bike Lane,0,0
 Bus Lane,0,0
@@ -46,4 +45,4 @@ Unlicensed Operator,1,10
 Unregistered,0,3
 Unsafe Lane Change,0,2
 Other Movers,0,3
-TRANSITTOTAL Movers ,3,185
+TOTAL Movers,3,185

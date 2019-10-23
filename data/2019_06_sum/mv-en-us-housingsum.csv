@@ -1,6 +1,4 @@
 Housing Bureau,,
-    June ,,
-"","",""
 Backing Unsafely,0,1
 Bike Lane,1,1
 Bus Lane,0,0
@@ -47,4 +45,4 @@ Unlicensed Operator,8,43
 Unregistered,1,10
 Unsafe Lane Change,1,2
 Other Movers,2,8
-HOUSINGTOTAL Movers ,34,225
+TOTAL Movers,34,225

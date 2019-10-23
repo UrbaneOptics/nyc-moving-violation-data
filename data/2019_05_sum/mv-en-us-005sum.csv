@@ -1,6 +1,4 @@
 5th Precinct,,
-     May ,,
-"","",""
 Backing Unsafely,0,9
 Bike Lane,12,29
 Bus Lane,16,99
@@ -47,4 +45,4 @@ Unlicensed Operator,27,119
 Unregistered,5,13
 Unsafe Lane Change,1,16
 Other Movers,100,383
-005TOTAL Movers ,735,3269
+TOTAL Movers,735,3269

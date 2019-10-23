@@ -1,6 +1,4 @@
 Transit Bureau,,
-  August ,,
-"","",""
 Backing Unsafely,0,0
 Bike Lane,0,0
 Bus Lane,0,0
@@ -47,4 +45,4 @@ Unlicensed Operator,1,9
 Unregistered,1,3
 Unsafe Lane Change,0,2
 Other Movers,0,3
-TRANSITTOTAL Movers ,4,182
+TOTAL Movers,4,182
