@@ -1,6 +1,4 @@
 Midtown South Precinct,,
-014sum,,
-"","",""
 Backing Unsafely,2,17
 Brake Lights (Defect.or Improper),25,197
 "Bus Lane, Driving in",3,3
@@ -35,4 +33,4 @@ Unlicensed Operator,27,298
 Unregistered,5,113
 Unsafe Lane Change,16,193
 Other Movers,151,1131
-014TOTAL Movers ,1659,16233
+TOTAL Movers,1659,16233

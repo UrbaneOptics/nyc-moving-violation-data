@@ -1,6 +1,4 @@
 83rd Precinct,,
-083sum,,
-"","",""
 Backing Unsafely,1,36
 Brake Lights (Defect.or Improper),14,230
 "Bus Lane, Driving in",0,0
@@ -35,4 +33,4 @@ Unlicensed Operator,89,1075
 Unregistered,18,145
 Unsafe Lane Change,0,1
 Other Movers,45,388
-083TOTAL Movers ,710,8993
+TOTAL Movers,710,8993

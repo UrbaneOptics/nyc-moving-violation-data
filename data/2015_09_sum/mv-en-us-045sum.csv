@@ -1,6 +1,4 @@
 45th Precinct,,
-045sum,,
-"","",""
 Backing Unsafely,1,2
 Brake Lights (Defect.or Improper),30,232
 "Bus Lane, Driving in",0,0
@@ -35,4 +33,4 @@ Unlicensed Operator,34,306
 Unregistered,13,129
 Unsafe Lane Change,1,16
 Other Movers,22,182
-045TOTAL Movers ,453,4690
+TOTAL Movers,453,4690

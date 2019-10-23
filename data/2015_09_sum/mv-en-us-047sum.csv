@@ -1,6 +1,4 @@
 47th Precinct,,
-047sum,,
-"","",""
 Backing Unsafely,1,9
 Brake Lights (Defect.or Improper),18,223
 "Bus Lane, Driving in",0,0
@@ -35,4 +33,4 @@ Unlicensed Operator,61,475
 Unregistered,31,220
 Unsafe Lane Change,0,1
 Other Movers,46,324
-047TOTAL Movers ,842,6870
+TOTAL Movers,842,6870

@@ -1,6 +1,4 @@
 88th Precinct,,
-088sum,,
-"","",""
 Backing Unsafely,1,9
 Brake Lights (Defect.or Improper),20,142
 "Bus Lane, Driving in",0,0
@@ -35,4 +33,4 @@ Unlicensed Operator,28,228
 Unregistered,6,73
 Unsafe Lane Change,0,2
 Other Movers,54,317
-088TOTAL Movers ,557,5802
+TOTAL Movers,557,5802

@@ -1,7 +1,4 @@
 66th Precinct,,
-    June ,,
-066sum,,
-"","",""
 Backing Unsafely,0,1
 Brake Lights (Defect.or Improper),3,16
 "Bus Lane, Driving in",0,0
@@ -36,4 +33,4 @@ Unlicensed Operator,39,243
 Unregistered,3,36
 Unsafe Lane Change,0,1
 Other Movers,77,350
-066   TOTAL Movers ,763,4820
+TOTAL Movers,763,4820

@@ -1,6 +1,4 @@
 104th Precinct,,
-104sum,,
-"","",""
 Backing Unsafely,1,6
 Brake Lights (Defect.or Improper),0,23
 "Bus Lane, Driving in",3,3
@@ -35,4 +33,4 @@ Unlicensed Operator,56,437
 Unregistered,12,91
 Unsafe Lane Change,5,24
 Other Movers,125,843
-104TOTAL Movers ,811,7188
+TOTAL Movers,811,7188

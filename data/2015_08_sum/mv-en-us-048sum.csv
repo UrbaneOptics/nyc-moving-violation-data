@@ -1,7 +1,4 @@
 48th Precinct,,
-  August ,,
-048sum,,
-"","",""
 Backing Unsafely,4,14
 Brake Lights (Defect.or Improper),20,201
 "Bus Lane, Driving in",0,1
@@ -36,4 +33,4 @@ Unlicensed Operator,59,429
 Unregistered,11,95
 Unsafe Lane Change,0,4
 Other Movers,20,247
-048TOTAL Movers ,768,6736
+TOTAL Movers,768,6736

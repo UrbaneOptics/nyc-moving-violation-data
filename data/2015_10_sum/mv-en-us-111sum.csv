@@ -1,7 +1,4 @@
 111th Precinct,,
-October  ,,
-111sum,,
-"","",""
 Backing Unsafely,0,1
 Brake Lights (Defect.or Improper),0,16
 "Bus Lane, Driving in",0,0
@@ -36,4 +33,4 @@ Unlicensed Operator,51,460
 Unregistered,1,74
 Unsafe Lane Change,1,26
 Other Movers,215,1758
-111TOTAL Movers ,1012,8418
+TOTAL Movers,1012,8418

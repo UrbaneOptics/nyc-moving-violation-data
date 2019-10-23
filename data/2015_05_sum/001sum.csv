@@ -1,7 +1,4 @@
 1st Precinct,,
-     May ,,
-001sum,,
-"",MTD   2015,YTD   2015
 Backing Unsafely,0,2
 Brake Lights (Defect.or Improper),3,7
 "Bus Lane, Driving in",3,5
@@ -36,4 +33,4 @@ Unlicensed Operator,10,51
 Unregistered,4,11
 Unsafe Lane Change,7,26
 Other Movers,29,116
-001    TOTAL Movers ,1012,4687
+TOTAL Movers,1012,4687

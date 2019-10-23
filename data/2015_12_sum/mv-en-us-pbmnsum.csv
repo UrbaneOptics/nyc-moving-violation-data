@@ -1,7 +1,4 @@
 Manhattan North,,
-December ,,
-pbmnsum,,
-"","",""
 Backing Unsafely,11,139
 Brake Lights (Defect.or Improper),84,1265
 "Bus Lane, Driving in",8,128
@@ -36,4 +33,4 @@ Unlicensed Operator,276,3489
 Unregistered,72,883
 Unsafe Lane Change,31,499
 Other Movers,329,5038
-PBMNTOTAL Movers ,7228,99782
+TOTAL Movers,7228,99782

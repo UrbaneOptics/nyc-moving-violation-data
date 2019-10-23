@@ -1,7 +1,4 @@
 50th Precinct,,
-    July ,,
-050sum,,
-"","",""
 Backing Unsafely,1,2
 Brake Lights (Defect.or Improper),6,56
 "Bus Lane, Driving in",0,0
@@ -36,4 +33,4 @@ Unlicensed Operator,31,161
 Unregistered,5,16
 Unsafe Lane Change,0,4
 Other Movers,20,101
-050TOTAL Movers ,596,4257
+TOTAL Movers,596,4257

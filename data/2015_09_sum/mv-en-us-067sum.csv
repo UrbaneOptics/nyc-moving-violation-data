@@ -1,6 +1,4 @@
 67th Precinct,,
-067sum,,
-"","",""
 Backing Unsafely,3,30
 Brake Lights (Defect.or Improper),15,186
 "Bus Lane, Driving in",2,14
@@ -35,4 +33,4 @@ Unlicensed Operator,96,968
 Unregistered,28,309
 Unsafe Lane Change,1,17
 Other Movers,113,1060
-067TOTAL Movers ,1057,12947
+TOTAL Movers,1057,12947

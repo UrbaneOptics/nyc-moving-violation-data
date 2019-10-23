@@ -1,7 +1,4 @@
 30th Precinct,,
-    June ,,
-030sum,,
-"","",""
 Backing Unsafely,0,3
 Brake Lights (Defect.or Improper),5,80
 "Bus Lane, Driving in",0,0
@@ -36,4 +33,4 @@ Unlicensed Operator,24,132
 Unregistered,1,17
 Unsafe Lane Change,0,6
 Other Movers,25,174
-030   TOTAL Movers ,659,3719
+TOTAL Movers,659,3719

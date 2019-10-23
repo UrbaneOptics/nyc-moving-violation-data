@@ -1,6 +1,4 @@
 42nd Precinct,,
-042sum,,
-"","",""
 Backing Unsafely,7,37
 Brake Lights (Defect.or Improper),9,75
 "Bus Lane, Driving in",0,3
@@ -35,4 +33,4 @@ Unlicensed Operator,25,373
 Unregistered,6,81
 Unsafe Lane Change,4,36
 Other Movers,5,106
-042TOTAL Movers ,453,6296
+TOTAL Movers,453,6296

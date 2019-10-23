@@ -1,6 +1,4 @@
 49th Precinct,,
-049sum,,
-"","",""
 Backing Unsafely,0,5
 Brake Lights (Defect.or Improper),38,482
 "Bus Lane, Driving in",0,2
@@ -35,4 +33,4 @@ Unlicensed Operator,59,559
 Unregistered,7,132
 Unsafe Lane Change,3,33
 Other Movers,18,186
-049TOTAL Movers ,710,6994
+TOTAL Movers,710,6994

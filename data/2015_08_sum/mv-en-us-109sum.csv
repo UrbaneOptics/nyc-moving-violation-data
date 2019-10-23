@@ -1,7 +1,4 @@
 109th Precinct,,
-  August ,,
-109sum,,
-"","",""
 Backing Unsafely,1,9
 Brake Lights (Defect.or Improper),1,11
 "Bus Lane, Driving in",0,0
@@ -36,4 +33,4 @@ Unlicensed Operator,69,537
 Unregistered,2,42
 Unsafe Lane Change,4,55
 Other Movers,123,727
-109TOTAL Movers ,1403,11583
+TOTAL Movers,1403,11583

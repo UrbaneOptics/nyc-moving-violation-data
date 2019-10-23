@@ -1,6 +1,4 @@
 61st Precinct,,
-061sum,,
-"","",""
 Backing Unsafely,0,1
 Brake Lights (Defect.or Improper),0,7
 "Bus Lane, Driving in",0,0
@@ -35,4 +33,4 @@ Unlicensed Operator,32,279
 Unregistered,2,60
 Unsafe Lane Change,0,12
 Other Movers,6,197
-061TOTAL Movers ,506,5260
+TOTAL Movers,506,5260

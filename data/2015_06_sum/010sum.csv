@@ -1,7 +1,4 @@
 10th Precinct,,
-    June ,,
-010sum,,
-"","",""
 Backing Unsafely,2,13
 Brake Lights (Defect.or Improper),24,193
 "Bus Lane, Driving in",0,0
@@ -36,4 +33,4 @@ Unlicensed Operator,50,204
 Unregistered,17,61
 Unsafe Lane Change,7,23
 Other Movers,73,358
-010   TOTAL Movers ,930,4722
+TOTAL Movers,930,4722

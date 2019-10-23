@@ -1,6 +1,4 @@
 71st Precinct,,
-071sum,,
-"","",""
 Backing Unsafely,1,47
 Brake Lights (Defect.or Improper),5,24
 "Bus Lane, Driving in",7,62
@@ -35,4 +33,4 @@ Unlicensed Operator,80,772
 Unregistered,10,133
 Unsafe Lane Change,2,16
 Other Movers,77,597
-071TOTAL Movers ,1260,11186
+TOTAL Movers,1260,11186

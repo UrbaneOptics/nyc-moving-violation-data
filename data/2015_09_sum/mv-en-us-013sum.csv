@@ -1,6 +1,4 @@
 13th Precinct,,
-013sum,,
-"","",""
 Backing Unsafely,0,7
 Brake Lights (Defect.or Improper),3,34
 "Bus Lane, Driving in",2,8
@@ -35,4 +33,4 @@ Unlicensed Operator,14,136
 Unregistered,4,31
 Unsafe Lane Change,26,215
 Other Movers,81,486
-013TOTAL Movers ,870,6262
+TOTAL Movers,870,6262

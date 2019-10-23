@@ -1,7 +1,4 @@
 Transit Bureau,,
-December ,,
-transitsum,,
-"","",""
 Backing Unsafely,0,0
 Brake Lights (Defect.or Improper),0,0
 "Bus Lane, Driving in",0,0
@@ -36,4 +33,4 @@ Unlicensed Operator,0,8
 Unregistered,0,1
 Unsafe Lane Change,0,0
 Other Movers,0,11
-TRANSITTOTAL Movers ,0,131
+TOTAL Movers,0,131

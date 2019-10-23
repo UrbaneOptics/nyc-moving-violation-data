@@ -1,6 +1,4 @@
 79th Precinct,,
-079sum,,
-"","",""
 Backing Unsafely,1,25
 Brake Lights (Defect.or Improper),13,282
 "Bus Lane, Driving in",0,0
@@ -35,4 +33,4 @@ Unlicensed Operator,39,468
 Unregistered,9,147
 Unsafe Lane Change,2,20
 Other Movers,22,258
-079TOTAL Movers ,603,7657
+TOTAL Movers,603,7657

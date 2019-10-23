@@ -1,6 +1,4 @@
 70th Precinct,,
-070sum,,
-"","",""
 Backing Unsafely,5,27
 Brake Lights (Defect.or Improper),0,3
 "Bus Lane, Driving in",0,0
@@ -35,4 +33,4 @@ Unlicensed Operator,62,845
 Unregistered,18,121
 Unsafe Lane Change,19,252
 Other Movers,69,540
-070TOTAL Movers ,975,11795
+TOTAL Movers,975,11795

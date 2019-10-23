@@ -1,6 +1,4 @@
 107th Precinct,,
-107sum,,
-"","",""
 Backing Unsafely,1,3
 Brake Lights (Defect.or Improper),11,88
 "Bus Lane, Driving in",0,0
@@ -35,4 +33,4 @@ Unlicensed Operator,60,542
 Unregistered,4,30
 Unsafe Lane Change,0,1
 Other Movers,55,516
-107TOTAL Movers ,834,8101
+TOTAL Movers,834,8101

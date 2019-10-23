@@ -1,7 +1,4 @@
 6th Precinct,,
-    July ,,
-006sum,,
-"","",""
 Backing Unsafely,0,14
 Brake Lights (Defect.or Improper),7,26
 "Bus Lane, Driving in",0,0
@@ -36,4 +33,4 @@ Unlicensed Operator,24,163
 Unregistered,1,6
 Unsafe Lane Change,23,158
 Other Movers,22,208
-006TOTAL Movers ,798,5304
+TOTAL Movers,798,5304

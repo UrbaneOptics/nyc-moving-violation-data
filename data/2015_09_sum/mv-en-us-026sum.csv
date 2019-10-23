@@ -1,6 +1,4 @@
 26th Precinct,,
-026sum,,
-"","",""
 Backing Unsafely,1,7
 Brake Lights (Defect.or Improper),1,44
 "Bus Lane, Driving in",0,0
@@ -35,4 +33,4 @@ Unlicensed Operator,22,147
 Unregistered,1,33
 Unsafe Lane Change,1,11
 Other Movers,51,258
-026TOTAL Movers ,517,4276
+TOTAL Movers,517,4276
