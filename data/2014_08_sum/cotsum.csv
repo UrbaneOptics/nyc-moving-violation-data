@@ -1,7 +1,4 @@
 Transportation Bureau,,
-  August ,,
-cotsum,,
-"",  ,  
 Backing Unsafely,11,154
 Brake Lights (Defect.or Improper),60,414
 "Bus Lane, Driving in",140,1310
@@ -36,6 +33,4 @@ Unlicensed Operator,586,3489
 Unregistered,118,895
 Unsafe Lane Change,84,578
 Other Movers,2059,13279
-TOTAL Movers ,17877,131442
-*,,
-Transportation Bureau, is a citywide unit whose activity is not tracked by Precinct.,
+TOTAL Movers,17877,131442

@@ -1,7 +1,4 @@
 Citywide,,
-    July ,,
-citysum,,
-"",  ,  
 Backing Unsafely,147,1237
 Brake Lights (Defect.or Improper),1773,14887
 "Bus Lane, Driving in",291,1754
@@ -36,4 +33,4 @@ Unlicensed Operator,4772,35670
 Unregistered,1087,7776
 Unsafe Lane Change,605,3418
 Other Movers,6418,41581
-TOTAL Movers ,90686,661984
+TOTAL Movers,90686,661984

@@ -1,7 +1,4 @@
 Housing Bureau,,
-December ,,
-housingsum,,
-"",  ,  
 Backing Unsafely,0,1
 Brake Lights (Defect.or Improper),2,20
 "Bus Lane, Driving in",0,0
@@ -36,6 +33,4 @@ Unlicensed Operator,0,26
 Unregistered,0,9
 Unsafe Lane Change,0,2
 Other Movers,0,36
-TOTAL Movers ,10,320
-*,,
-Housing Bureau, is a citywide unit whose activity is not tracked by Precinct.,
+TOTAL Movers,10,320

@@ -1,7 +1,4 @@
 Transportation Bureau,,
-    July ,,
-cotsum,,
-"",  ,  
 Backing Unsafely,5,143
 Brake Lights (Defect.or Improper),53,354
 "Bus Lane, Driving in",224,1170
@@ -36,6 +33,4 @@ Unlicensed Operator,506,2903
 Unregistered,127,777
 Unsafe Lane Change,68,494
 Other Movers,1636,11220
-TOTAL Movers ,16579,113565
-*,,
-Transportation Bureau, is a citywide unit whose activity is not tracked by Precinct.,
+TOTAL Movers,16579,113565

@@ -1,6 +1,4 @@
 17th Precinct,,
-017sum,,
-"",MTD   2014,YTD   2014
 Backing Unsafely,0,6
 Brake Lights (Defect.or Improper),66,746
 "Bus Lane, Driving in",0,5
@@ -35,4 +33,4 @@ Unlicensed Operator,8,126
 Unregistered,1,33
 Unsafe Lane Change,122,1549
 Other Movers,40,784
-017    TOTAL Movers ,836,10783
+TOTAL Movers,836,10783

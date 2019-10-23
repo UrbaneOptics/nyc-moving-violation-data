@@ -1,7 +1,4 @@
 Transportation Bureau,,
-   April ,,
-cotsum,,
-"",  ,  
 Backing Unsafely,27,125
 Brake Lights (Defect.or Improper),28,170
 "Bus Lane, Driving in",208,728
@@ -36,6 +33,4 @@ Unlicensed Operator,441,1543
 Unregistered,114,407
 Unsafe Lane Change,66,295
 Other Movers,1584,5982
-TOTAL Movers ,20397,64593
-*,,
-Transportation Bureau, is a citywide unit whose activity is not tracked by Precinct.,
+TOTAL Movers,20397,64593

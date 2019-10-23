@@ -1,6 +1,4 @@
 123rd Precinct,,
-123sum,,
-"",MTD   2014,YTD   2014
 Backing Unsafely,1,6
 Brake Lights (Defect.or Improper),47,444
 "Bus Lane, Driving in",0,0
@@ -35,4 +33,4 @@ Unlicensed Operator,45,481
 Unregistered,12,143
 Unsafe Lane Change,0,1
 Other Movers,34,322
-123    TOTAL Movers ,820,8609
+TOTAL Movers,820,8609

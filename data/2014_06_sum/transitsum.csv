@@ -1,7 +1,4 @@
 Transit Bureau,,
-    June ,,
-transitsum,,
-"",  ,  
 Backing Unsafely,0,0
 Brake Lights (Defect.or Improper),0,0
 "Bus Lane, Driving in",0,0
@@ -36,6 +33,4 @@ Unlicensed Operator,0,0
 Unregistered,0,0
 Unsafe Lane Change,0,0
 Other Movers,0,1
-TOTAL Movers ,0,1
-*,,
-Transit Bureau, is a citywide unit whose activity is not tracked by Precinct.,
+TOTAL Movers,0,1

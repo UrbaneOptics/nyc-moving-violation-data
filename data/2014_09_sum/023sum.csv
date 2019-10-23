@@ -1,6 +1,4 @@
 23rd Precinct,,
-023sum,,
-"",MTD   2014,YTD   2014
 Backing Unsafely,1,11
 Brake Lights (Defect.or Improper),6,199
 "Bus Lane, Driving in",0,7
@@ -35,4 +33,4 @@ Unlicensed Operator,10,129
 Unregistered,2,18
 Unsafe Lane Change,4,26
 Other Movers,23,209
-023    TOTAL Movers ,633,6184
+TOTAL Movers,633,6184
