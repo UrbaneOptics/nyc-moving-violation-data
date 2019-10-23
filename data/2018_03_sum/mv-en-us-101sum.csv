@@ -1,51 +1,49 @@
-"Moving Violations",,
-"101st Precinct",,
-"   March ",,
-"Offense Description","MTD 2018","YTD 2018"
-"Backing Unsafely",0,3
-"Bike Lane",0,0
-"Bus Lane",0,0
-"Cell Phone",51,113
-"Commercial Veh on Pkwy",0,0
-"Cruising For Passengers",0,0
-"Disobey Traffic Control Device",111,352
-"Driving Too Slow",0,0
+101st Precinct,,
+   March ,,
+"","",""
+Backing Unsafely,0,3
+Bike Lane,0,0
+Bus Lane,0,0
+Cell Phone,51,113
+Commercial Veh on Pkwy,0,0
+Cruising For Passengers,0,0
+Disobey Traffic Control Device,111,352
+Driving Too Slow,0,0
 Equipment,26,64
-"Equipment (Other)",0,0
-"Excessive Noise",0,0
-"Fail to Keep Right",0,0
-"Fail to yield Right of Way to Pedestrian",11,40
-"Failure to Signal",19,36
-"Following Too Closely",0,0
-"Improper Passing",0,4
-"Improper Taxi Pickup",0,0
-"Improper Turn",30,100
-"Improper/Missing Plates",1,1
-"Lamps and Other Equipment on Bicycle",0,1
-"Motorcycle (Other)",0,0
-"Not Giving R of W to Veh.",0,0
-"Obstructed Plate",4,11
-"One Way Street",0,5
+Equipment (Other),0,0
+Excessive Noise,0,0
+Fail to Keep Right,0,0
+Fail to yield Right of Way to Pedestrian,11,40
+Failure to Signal,19,36
+Following Too Closely,0,0
+Improper Passing,0,4
+Improper Taxi Pickup,0,0
+Improper Turn,30,100
+Improper/Missing Plates,1,1
+Lamps and Other Equipment on Bicycle,0,1
+Motorcycle (Other),0,0
+Not Giving R of W to Veh.,0,0
+Obstructed Plate,4,11
+One Way Street,0,5
 Overheight,0,0
 Overlength,0,1
 Overweight,0,0
 Overwidth,0,0
-"Pavement Markings",0,0
-"Red Light",47,156
-"School Bus",1,1
-"Scooter In NYC",0,0
-"Seat Belt",7,34
+Pavement Markings,0,0
+Red Light,47,156
+School Bus,1,1
+Scooter In NYC,0,0
+Seat Belt,7,34
 Speeding,79,215
 Spillback,0,1
-"TBTA Rule",0,0
+TBTA Rule,0,0
 Tints,28,112
-"TLC (Other)",0,0
-"Truck Route",0,2
+TLC (Other),0,0
+Truck Route,0,2
 Uninspected,3,13
 Uninsured,7,30
-"Unlicensed Operator",50,148
+Unlicensed Operator,50,148
 Unregistered,6,27
-"Unsafe Lane Change",0,0
-"Other Movers",64,178
-"101TOTAL Movers ",545,1648
-"* All figures are preliminary and subject to change.",,
+Unsafe Lane Change,0,0
+Other Movers,64,178
+101TOTAL Movers ,545,1648
