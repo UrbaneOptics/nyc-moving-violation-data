@@ -1,14 +1,12 @@
 # NYC Moving Violation Data
-[Work in Progress] - Currently manually going through data and determining what steps are needed to normalize it and present it in a usable format. If you would like to help, please send an e-mail to joe@urbaneoptics.com.
+[Work in Progress]  
+NYC takes monthly tallies of every precinct. This data is publicly available via NYC's [Moving Violations and Summonses](https://www1.nyc.gov/site/nypd/stats/traffic-data/traffic-data-moving.page) page. The data formats they provide are Excel(xlsx) and PDF. Unfortunately, the raw data has some improper formatting making it difficult to parse. 
 
-NYC takes monthly tallies of every precinct. This data is publicly available via NYC's [Moving Violations and Summonses](https://www1.nyc.gov/site/nypd/stats/traffic-data/traffic-data-moving.page) page. The data formats they provide are Excel(xlsx) and PDF. 
+This repository aims to format and present this data in a standardized way to make it easier to parse.  
+(1) CSV files are provided in replacement to the standard Excel files. These CSV files are formatted to remove data that is unnecessary and standardize the format across all months.  
+(2) [WIP] JSON files are provided as well. One JSON file contains an entire months worth of data for all precincts. 
 
-Unfortunately, the raw data has some improper formatting making it difficult to parse. This repository aims to format and present this data in a standardized way to make it easier to parse.
-
-(1) CSV files are provided in replacement to the standard Excel files. These CSV files are formatted to remove data that is unnecessary to track precinct tallies.
-
-(2) JSON files are provided as well. One JSON file contains an entire months worth of data for all precincts.
-The structure of the JSON data is as follows.
+The structure of the JSON data is as follows.  
 ```json
 {
   "PRECINCT_OR_LOCATION_NAME": [
@@ -18,12 +16,10 @@ The structure of the JSON data is as follows.
 }
 ```
 
-# Progress
-Data for years 2011 - 2013 is being normalized. All of the scripts are complete to normalize this data in CSV format. All that's currently left is converting the monthly information to a standardized JSON format.
-
-For the years 2014 onwards, more work is needed since some formats changed in the data. The CSV's are mostly formatted and still need to be converted to JSON.
-
-
+# Notes on data
+On July 2013, the 121st precinct was created. Summons issues prior to that date will be
+reflected in the totals for the 120th or 122nd precinct, depending on where they were issuedThe 121st precinct will only have totals from July 2013 onwards.# Progress
+Data for years 2011-2019 appears to be fully normalized in CSV format. These CSVs should be able to be processed in a standard fashion.If you notice any issues with the data, please open a ticket or e-mail joe@urbaneoptics.com
 The process for normalizing a dataset is currently
 ```
 cd <folder>
