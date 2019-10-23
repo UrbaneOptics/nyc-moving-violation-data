@@ -1,6 +1,4 @@
 72nd Precinct,,
-072sum,,
-"","",""
 Backing Unsafely,4,27
 Brake Lights (Defect.or Improper),1,21
 "Bus Lane, Driving in",0,0
@@ -37,4 +35,4 @@ Unlicensed Operator,51,550
 Unregistered,8,91
 Unsafe Lane Change,1,22
 Other Movers,80,725
-072TOTAL Movers ,900,9078
+TOTAL Movers,900,9078

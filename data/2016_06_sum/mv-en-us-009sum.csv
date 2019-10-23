@@ -1,7 +1,4 @@
 9th Precinct,,
-    June ,,
-009sum,,
-"","",""
 Backing Unsafely,0,3
 Brake Lights (Defect.or Improper),16,104
 "Bus Lane, Driving in",0,5
@@ -37,4 +34,4 @@ Unlicensed Operator,23,134
 Unregistered,6,42
 Unsafe Lane Change,19,123
 Other Movers,57,315
-009TOTAL Movers ,655,4168
+TOTAL Movers,655,4168

@@ -1,6 +1,4 @@
 41st Precinct,,
-041sum,,
-"","",""
 Backing Unsafely,0,14
 Brake Lights (Defect.or Improper),7,82
 "Bus Lane, Driving in",2,2
@@ -37,4 +35,4 @@ Unlicensed Operator,68,481
 Unregistered,18,140
 Unsafe Lane Change,7,14
 Other Movers,106,437
-041TOTAL Movers ,1411,9487
+TOTAL Movers,1411,9487

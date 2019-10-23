@@ -1,6 +1,4 @@
 33rd Precinct,,
-033sum,,
-"","",""
 Backing Unsafely,1,23
 Brake Lights (Defect.or Improper),13,134
 "Bus Lane, Driving in",0,1
@@ -37,4 +35,4 @@ Unlicensed Operator,32,266
 Unregistered,5,82
 Unsafe Lane Change,0,19
 Other Movers,77,687
-033TOTAL Movers ,821,7405
+TOTAL Movers,821,7405

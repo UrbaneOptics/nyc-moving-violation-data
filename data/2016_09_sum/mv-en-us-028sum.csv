@@ -1,6 +1,4 @@
 28th Precinct,,
-028sum,,
-"","",""
 Backing Unsafely,0,4
 Brake Lights (Defect.or Improper),11,75
 "Bus Lane, Driving in",1,13
@@ -36,4 +34,4 @@ Unlicensed Operator,20,242
 Unregistered,8,57
 Unsafe Lane Change,0,4
 Other Movers,72,509
-028TOTAL Movers ,901,7624
+TOTAL Movers,901,7624

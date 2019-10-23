@@ -1,6 +1,4 @@
 34th Precinct,,
-034sum,,
-"","",""
 Backing Unsafely,0,2
 Brake Lights (Defect.or Improper),5,30
 "Bus Lane, Driving in",0,0
@@ -37,4 +35,4 @@ Unlicensed Operator,37,315
 Unregistered,9,55
 Unsafe Lane Change,0,3
 Other Movers,48,252
-034TOTAL Movers ,630,5534
+TOTAL Movers,630,5534

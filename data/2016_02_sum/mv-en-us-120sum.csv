@@ -1,7 +1,4 @@
 120th Precinct,,
-February ,,
-120sum,,
-"","",""
 Backing Unsafely,0,1
 Brake Lights (Defect.or Improper),21,47
 "Bus Lane, Driving in",0,1
@@ -36,4 +33,4 @@ Unlicensed Operator,136,245
 Unregistered,13,23
 Unsafe Lane Change,1,1
 Other Movers,111,197
-120TOTAL Movers ,1138,2210
+TOTAL Movers,1138,2210

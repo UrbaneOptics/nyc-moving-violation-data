@@ -1,6 +1,4 @@
 46th Precinct,,
-046sum,,
-"","",""
 Backing Unsafely,0,31
 Brake Lights (Defect.or Improper),12,116
 "Bus Lane, Driving in",4,14
@@ -36,4 +34,4 @@ Unlicensed Operator,84,669
 Unregistered,29,205
 Unsafe Lane Change,1,29
 Other Movers,176,1030
-046TOTAL Movers ,1155,10308
+TOTAL Movers,1155,10308

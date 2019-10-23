@@ -1,7 +1,4 @@
 Central Park Precinct,,
-December ,,
-022sum,,
-"","",""
 Backing Unsafely,0,2
 Brake Lights (Defect.or Improper),4,43
 "Bus Lane, Driving in",2,80
@@ -37,4 +34,4 @@ Unlicensed Operator,10,112
 Unregistered,4,51
 Unsafe Lane Change,1,17
 Other Movers,17,255
-022TOTAL Movers ,484,5659
+TOTAL Movers,484,5659

@@ -1,7 +1,4 @@
 Citywide,,
-     May ,,
-citysum,,
-"","",""
 Backing Unsafely,102,600
 Brake Lights (Defect.or Improper),1047,5490
 "Bus Lane, Driving in",151,1416
@@ -37,4 +34,4 @@ Unlicensed Operator,4944,23883
 Unregistered,1105,5097
 Unsafe Lane Change,476,2814
 Other Movers,7083,33312
-CitywideTOTAL Movers ,92708,456672
+TOTAL Movers,92708,456672

@@ -1,6 +1,4 @@
 1st Precinct,,
-February ,,
-"","",""
 Backing Unsafely,0,1
 Bike Lane,0,0
 Bus Lane,1,5
@@ -46,4 +44,4 @@ Unlicensed Operator,3,10
 Unregistered,0,0
 Unsafe Lane Change,3,8
 Other Movers,98,244
-001TOTAL Movers ,638,1405
+TOTAL Movers,638,1405

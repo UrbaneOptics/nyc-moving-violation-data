@@ -1,6 +1,4 @@
 76th Precinct,,
-076sum,,
-"","",""
 Backing Unsafely,0,12
 Brake Lights (Defect.or Improper),0,16
 "Bus Lane, Driving in",0,0
@@ -37,4 +35,4 @@ Unlicensed Operator,21,155
 Unregistered,3,16
 Unsafe Lane Change,1,12
 Other Movers,45,517
-076TOTAL Movers ,491,4828
+TOTAL Movers,491,4828

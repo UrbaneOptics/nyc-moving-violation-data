@@ -1,7 +1,4 @@
 5th Precinct,,
-   April ,,
-005sum,,
-"","",""
 Backing Unsafely,0,1
 Brake Lights (Defect.or Improper),1,7
 "Bus Lane, Driving in",0,0
@@ -38,4 +35,4 @@ Unlicensed Operator,18,70
 Unregistered,3,19
 Unsafe Lane Change,6,15
 Other Movers,134,332
-005TOTAL Movers ,909,2965
+TOTAL Movers,909,2965

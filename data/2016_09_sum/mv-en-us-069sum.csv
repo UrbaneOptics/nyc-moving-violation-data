@@ -1,6 +1,4 @@
 69th Precinct,,
-069sum,,
-"","",""
 Backing Unsafely,1,11
 Brake Lights (Defect.or Improper),8,61
 "Bus Lane, Driving in",0,0
@@ -36,4 +34,4 @@ Unlicensed Operator,40,382
 Unregistered,11,106
 Unsafe Lane Change,0,0
 Other Movers,81,669
-069TOTAL Movers ,880,8175
+TOTAL Movers,880,8175

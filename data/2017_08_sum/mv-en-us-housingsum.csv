@@ -1,7 +1,4 @@
 Housing Bureau,,
-  August ,,
-housingsum,,
-"","",""
 Backing Unsafely,0,1
 Brake Lights (Defect.or Improper),2,4
 "Bus Lane, Driving in",0,0
@@ -38,4 +35,4 @@ Unlicensed Operator,9,32
 Unregistered,0,4
 Unsafe Lane Change,1,3
 Other Movers,1,10
-HOUSINGTOTAL Movers ,26,154
+TOTAL Movers,26,154

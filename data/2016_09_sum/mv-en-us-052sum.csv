@@ -1,6 +1,4 @@
 52nd Precinct,,
-052sum,,
-"","",""
 Backing Unsafely,0,8
 Brake Lights (Defect.or Improper),37,434
 "Bus Lane, Driving in",0,22
@@ -36,4 +34,4 @@ Unlicensed Operator,47,452
 Unregistered,29,152
 Unsafe Lane Change,0,13
 Other Movers,55,262
-052TOTAL Movers ,812,7514
+TOTAL Movers,812,7514

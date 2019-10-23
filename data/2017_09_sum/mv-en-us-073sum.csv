@@ -1,6 +1,4 @@
 73rd Precinct,,
-073sum,,
-"","",""
 Backing Unsafely,1,15
 Brake Lights (Defect.or Improper),0,58
 "Bus Lane, Driving in",0,0
@@ -37,4 +35,4 @@ Unlicensed Operator,60,657
 Unregistered,17,153
 Unsafe Lane Change,0,7
 Other Movers,125,1285
-073TOTAL Movers ,939,11294
+TOTAL Movers,939,11294

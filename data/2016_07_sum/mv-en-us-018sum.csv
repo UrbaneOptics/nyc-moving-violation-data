@@ -1,7 +1,4 @@
 Midtown North Precinct,,
-    July ,,
-018sum,,
-"","",""
 Backing Unsafely,2,13
 Brake Lights (Defect.or Improper),35,238
 "Bus Lane, Driving in",2,61
@@ -37,4 +34,4 @@ Unlicensed Operator,35,206
 Unregistered,21,150
 Unsafe Lane Change,3,63
 Other Movers,52,317
-018TOTAL Movers ,1216,7517
+TOTAL Movers,1216,7517

@@ -1,6 +1,4 @@
 40th Precinct,,
-040sum,,
-"","",""
 Backing Unsafely,1,10
 Brake Lights (Defect.or Improper),10,108
 "Bus Lane, Driving in",0,0
@@ -37,4 +35,4 @@ Unlicensed Operator,59,626
 Unregistered,15,173
 Unsafe Lane Change,17,38
 Other Movers,65,380
-040TOTAL Movers ,1238,10130
+TOTAL Movers,1238,10130

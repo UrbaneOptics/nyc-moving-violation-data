@@ -1,7 +1,4 @@
 6th Precinct,,
-   March ,,
-006sum,,
-"","",""
 Backing Unsafely,0,1
 Brake Lights (Defect.or Improper),3,11
 "Bus Lane, Driving in",0,0
@@ -38,4 +35,4 @@ Unlicensed Operator,10,38
 Unregistered,3,5
 Unsafe Lane Change,22,44
 Other Movers,35,132
-006TOTAL Movers ,626,2045
+TOTAL Movers,626,2045

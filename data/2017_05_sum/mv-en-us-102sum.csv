@@ -1,7 +1,4 @@
 102nd Precinct,,
-     May ,,
-102sum,,
-"","",""
 Backing Unsafely,0,2
 Brake Lights (Defect.or Improper),0,1
 "Bus Lane, Driving in",0,0
@@ -38,4 +35,4 @@ Unlicensed Operator,75,340
 Unregistered,12,49
 Unsafe Lane Change,2,6
 Other Movers,93,381
-102TOTAL Movers ,993,4606
+TOTAL Movers,993,4606

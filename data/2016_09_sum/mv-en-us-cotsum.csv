@@ -1,6 +1,4 @@
 Transportation Bureau,,
-cotsum,,
-"","",""
 Backing Unsafely,13,77
 Brake Lights (Defect.or Improper),19,784
 "Bus Lane, Driving in",25,1181
@@ -36,4 +34,4 @@ Unlicensed Operator,447,3942
 Unregistered,101,1142
 Unsafe Lane Change,103,847
 Other Movers,1544,18672
-TCDTOTAL Movers ,12481,146313
+TOTAL Movers,12481,146313

@@ -1,6 +1,4 @@
 94th Precinct,,
-094sum,,
-"","",""
 Backing Unsafely,1,8
 Brake Lights (Defect.or Improper),11,51
 "Bus Lane, Driving in",0,0
@@ -37,4 +35,4 @@ Unlicensed Operator,29,272
 Unregistered,15,107
 Unsafe Lane Change,2,10
 Other Movers,62,600
-094TOTAL Movers ,720,6332
+TOTAL Movers,720,6332

@@ -1,7 +1,4 @@
 Manhattan South,,
-    June ,,
-pbmssum,,
-"","",""
 Backing Unsafely,8,60
 Brake Lights (Defect.or Improper),28,337
 "Bus Lane, Driving in",13,62
@@ -38,4 +35,4 @@ Unlicensed Operator,226,1264
 Unregistered,64,329
 Unsafe Lane Change,93,883
 Other Movers,571,3553
-PBMSTOTAL Movers ,8584,53112
+TOTAL Movers,8584,53112

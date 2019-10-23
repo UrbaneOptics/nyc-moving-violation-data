@@ -1,7 +1,4 @@
 63rd Precinct,,
-   April ,,
-063sum,,
-"","",""
 Backing Unsafely,0,2
 Brake Lights (Defect.or Improper),1,1
 "Bus Lane, Driving in",0,5
@@ -36,4 +33,4 @@ Unlicensed Operator,10,53
 Unregistered,4,5
 Unsafe Lane Change,0,2
 Other Movers,67,267
-063TOTAL Movers ,459,2079
+TOTAL Movers,459,2079

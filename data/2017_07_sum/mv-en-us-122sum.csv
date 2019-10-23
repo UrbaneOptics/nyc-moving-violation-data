@@ -1,7 +1,4 @@
 122nd Precinct,,
-    July ,,
-122sum,,
-"","",""
 Backing Unsafely,1,11
 Brake Lights (Defect.or Improper),11,67
 "Bus Lane, Driving in",1,6
@@ -38,4 +35,4 @@ Unlicensed Operator,63,540
 Unregistered,10,104
 Unsafe Lane Change,5,46
 Other Movers,179,1497
-122TOTAL Movers ,1216,9779
+TOTAL Movers,1216,9779

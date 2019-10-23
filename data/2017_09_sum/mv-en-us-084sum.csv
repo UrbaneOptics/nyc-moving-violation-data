@@ -1,6 +1,4 @@
 84th Precinct,,
-084sum,,
-"","",""
 Backing Unsafely,0,15
 Brake Lights (Defect.or Improper),5,98
 "Bus Lane, Driving in",0,0
@@ -37,4 +35,4 @@ Unlicensed Operator,28,392
 Unregistered,9,85
 Unsafe Lane Change,0,0
 Other Movers,66,671
-084TOTAL Movers ,755,8778
+TOTAL Movers,755,8778

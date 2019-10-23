@@ -1,7 +1,4 @@
 108th Precinct,,
-   March ,,
-108sum,,
-"","",""
 Backing Unsafely,1,2
 Brake Lights (Defect.or Improper),2,2
 "Bus Lane, Driving in",0,0
@@ -36,4 +33,4 @@ Unlicensed Operator,54,154
 Unregistered,1,26
 Unsafe Lane Change,0,3
 Other Movers,71,202
-108TOTAL Movers ,1210,3492
+TOTAL Movers,1210,3492

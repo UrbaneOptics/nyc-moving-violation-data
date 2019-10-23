@@ -1,6 +1,4 @@
 Bronx,,
-pbbxsum,,
-"","",""
 Backing Unsafely,21,190
 Brake Lights (Defect.or Improper),177,2113
 "Bus Lane, Driving in",17,85
@@ -37,4 +35,4 @@ Unlicensed Operator,707,6927
 Unregistered,183,2029
 Unsafe Lane Change,68,657
 Other Movers,763,5915
-PBBXTOTAL Movers ,10965,104660
+TOTAL Movers,10965,104660

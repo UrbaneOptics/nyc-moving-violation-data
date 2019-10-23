@@ -1,6 +1,4 @@
 24th Precinct,,
-024sum,,
-"","",""
 Backing Unsafely,0,2
 Brake Lights (Defect.or Improper),3,75
 "Bus Lane, Driving in",0,0
@@ -37,4 +35,4 @@ Unlicensed Operator,13,159
 Unregistered,2,43
 Unsafe Lane Change,0,10
 Other Movers,20,306
-024TOTAL Movers ,574,5997
+TOTAL Movers,574,5997

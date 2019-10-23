@@ -1,6 +1,4 @@
 62nd Precinct,,
-062sum,,
-"","",""
 Backing Unsafely,1,5
 Brake Lights (Defect.or Improper),0,3
 "Bus Lane, Driving in",0,0
@@ -36,4 +34,4 @@ Unlicensed Operator,45,586
 Unregistered,1,71
 Unsafe Lane Change,0,5
 Other Movers,51,318
-062TOTAL Movers ,829,8065
+TOTAL Movers,829,8065

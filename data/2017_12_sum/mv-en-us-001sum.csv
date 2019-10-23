@@ -1,7 +1,4 @@
 1st Precinct,,
-December ,,
-001sum,,
-"","",""
 Backing Unsafely,2,10
 Brake Lights (Defect.or Improper),0,47
 "Bus Lane, Driving in",0,7
@@ -38,4 +35,4 @@ Unlicensed Operator,5,113
 Unregistered,0,28
 Unsafe Lane Change,5,74
 Other Movers,23,496
-001TOTAL Movers ,478,9287
+TOTAL Movers,478,9287

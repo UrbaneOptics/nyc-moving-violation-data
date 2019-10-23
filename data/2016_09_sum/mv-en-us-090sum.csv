@@ -1,6 +1,4 @@
 90th Precinct,,
-090sum,,
-"","",""
 Backing Unsafely,2,5
 Brake Lights (Defect.or Improper),10,75
 "Bus Lane, Driving in",0,0
@@ -36,4 +34,4 @@ Unlicensed Operator,37,347
 Unregistered,1,43
 Unsafe Lane Change,0,1
 Other Movers,93,807
-090TOTAL Movers ,775,7688
+TOTAL Movers,775,7688

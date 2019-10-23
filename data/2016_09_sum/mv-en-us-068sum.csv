@@ -1,6 +1,4 @@
 68th Precinct,,
-068sum,,
-"","",""
 Backing Unsafely,0,4
 Brake Lights (Defect.or Improper),0,4
 "Bus Lane, Driving in",0,0
@@ -36,4 +34,4 @@ Unlicensed Operator,37,343
 Unregistered,6,49
 Unsafe Lane Change,1,10
 Other Movers,63,451
-068TOTAL Movers ,679,6180
+TOTAL Movers,679,6180

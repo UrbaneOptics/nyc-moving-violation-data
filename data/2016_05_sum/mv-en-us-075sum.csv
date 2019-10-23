@@ -1,7 +1,4 @@
 75th Precinct,,
-     May ,,
-075sum,,
-"","",""
 Backing Unsafely,2,9
 Brake Lights (Defect.or Improper),12,34
 "Bus Lane, Driving in",0,0
@@ -37,4 +34,4 @@ Unlicensed Operator,125,509
 Unregistered,31,145
 Unsafe Lane Change,1,6
 Other Movers,130,708
-075TOTAL Movers ,1296,6506
+TOTAL Movers,1296,6506

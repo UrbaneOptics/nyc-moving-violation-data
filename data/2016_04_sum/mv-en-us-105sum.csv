@@ -1,7 +1,4 @@
 105th Precinct,,
-   April ,,
-105sum,,
-"","",""
 Backing Unsafely,1,5
 Brake Lights (Defect.or Improper),17,50
 "Bus Lane, Driving in",0,0
@@ -36,4 +33,4 @@ Unlicensed Operator,70,275
 Unregistered,9,31
 Unsafe Lane Change,2,7
 Other Movers,68,215
-105TOTAL Movers ,1117,4274
+TOTAL Movers,1117,4274

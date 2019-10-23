@@ -1,6 +1,4 @@
 32nd Precinct,,
-032sum,,
-"","",""
 Backing Unsafely,1,23
 Brake Lights (Defect.or Improper),3,90
 "Bus Lane, Driving in",0,0
@@ -36,4 +34,4 @@ Unlicensed Operator,37,400
 Unregistered,12,152
 Unsafe Lane Change,5,28
 Other Movers,19,165
-032TOTAL Movers ,791,7713
+TOTAL Movers,791,7713

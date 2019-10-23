@@ -1,6 +1,4 @@
 19th Precinct,,
-019sum,,
-"","",""
 Backing Unsafely,1,15
 Brake Lights (Defect.or Improper),8,89
 "Bus Lane, Driving in",0,4
@@ -37,4 +35,4 @@ Unlicensed Operator,22,282
 Unregistered,4,36
 Unsafe Lane Change,7,82
 Other Movers,19,258
-019TOTAL Movers ,879,10740
+TOTAL Movers,879,10740

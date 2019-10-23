@@ -1,6 +1,4 @@
 43rd Precinct,,
-043sum,,
-"","",""
 Backing Unsafely,2,43
 Brake Lights (Defect.or Improper),15,271
 "Bus Lane, Driving in",0,0
@@ -37,4 +35,4 @@ Unlicensed Operator,72,827
 Unregistered,32,309
 Unsafe Lane Change,28,427
 Other Movers,76,585
-043TOTAL Movers ,884,9886
+TOTAL Movers,884,9886

@@ -1,7 +1,4 @@
 Patrol Bureau,,
-December ,,
-patrolsum,,
-"","",""
 Backing Unsafely,96,1213
 Brake Lights (Defect.or Improper),728,10268
 "Bus Lane, Driving in",44,717
@@ -37,4 +34,4 @@ Unlicensed Operator,3901,50943
 Unregistered,720,9913
 Unsafe Lane Change,296,4534
 Other Movers,4200,53798
-PATROLTOTAL Movers ,65168,848349
+TOTAL Movers,65168,848349

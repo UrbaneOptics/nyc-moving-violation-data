@@ -1,6 +1,4 @@
 81st Precinct,,
-081sum,,
-"","",""
 Backing Unsafely,1,14
 Brake Lights (Defect.or Improper),50,431
 "Bus Lane, Driving in",0,0
@@ -37,4 +35,4 @@ Unlicensed Operator,48,624
 Unregistered,11,133
 Unsafe Lane Change,2,12
 Other Movers,96,627
-081TOTAL Movers ,698,8102
+TOTAL Movers,698,8102

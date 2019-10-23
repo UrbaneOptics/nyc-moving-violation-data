@@ -1,6 +1,4 @@
 7th Precinct,,
-007sum,,
-"","",""
 Backing Unsafely,0,3
 Brake Lights (Defect.or Improper),0,0
 "Bus Lane, Driving in",0,0
@@ -36,4 +34,4 @@ Unlicensed Operator,18,189
 Unregistered,0,4
 Unsafe Lane Change,2,31
 Other Movers,22,305
-007TOTAL Movers ,674,5674
+TOTAL Movers,674,5674

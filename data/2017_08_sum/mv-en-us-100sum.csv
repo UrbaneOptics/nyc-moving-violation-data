@@ -1,7 +1,4 @@
 100th Precinct,,
-  August ,,
-100sum,,
-"","",""
 Backing Unsafely,0,3
 Brake Lights (Defect.or Improper),13,105
 "Bus Lane, Driving in",0,0
@@ -38,4 +35,4 @@ Unlicensed Operator,34,299
 Unregistered,5,33
 Unsafe Lane Change,0,0
 Other Movers,64,587
-100TOTAL Movers ,454,4463
+TOTAL Movers,454,4463

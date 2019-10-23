@@ -1,7 +1,4 @@
 Housing Bureau,,
-November ,,
-housingsum,,
-"","",""
 Backing Unsafely,0,3
 Brake Lights (Defect.or Improper),0,11
 "Bus Lane, Driving in",0,0
@@ -37,4 +34,4 @@ Unlicensed Operator,4,27
 Unregistered,1,6
 Unsafe Lane Change,0,2
 Other Movers,0,25
-HOUSINGTOTAL Movers ,13,202
+TOTAL Movers,13,202

@@ -1,7 +1,4 @@
 20th Precinct,,
-    July ,,
-020sum,,
-"","",""
 Backing Unsafely,0,5
 Brake Lights (Defect.or Improper),3,44
 "Bus Lane, Driving in",0,0
@@ -37,4 +34,4 @@ Unlicensed Operator,15,129
 Unregistered,2,16
 Unsafe Lane Change,1,25
 Other Movers,36,298
-020TOTAL Movers ,607,5199
+TOTAL Movers,607,5199

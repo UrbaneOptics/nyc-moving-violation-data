@@ -1,6 +1,4 @@
 Queens South,,
-pbqssum,,
-"","",""
 Backing Unsafely,2,55
 Brake Lights (Defect.or Improper),17,356
 "Bus Lane, Driving in",0,0
@@ -37,4 +35,4 @@ Unlicensed Operator,395,4933
 Unregistered,52,824
 Unsafe Lane Change,7,83
 Other Movers,525,5298
-PBQSTOTAL Movers ,5063,63195
+TOTAL Movers,5063,63195

@@ -1,7 +1,4 @@
 23rd Precinct,,
-    June ,,
-023sum,,
-"","",""
 Backing Unsafely,2,9
 Brake Lights (Defect.or Improper),4,23
 "Bus Lane, Driving in",0,5
@@ -38,4 +35,4 @@ Unlicensed Operator,10,87
 Unregistered,2,15
 Unsafe Lane Change,1,7
 Other Movers,41,205
-023TOTAL Movers ,755,4485
+TOTAL Movers,755,4485

@@ -1,6 +1,4 @@
 78th Precinct,,
-078sum,,
-"","",""
 Backing Unsafely,1,10
 Brake Lights (Defect.or Improper),1,73
 "Bus Lane, Driving in",0,1
@@ -37,4 +35,4 @@ Unlicensed Operator,6,197
 Unregistered,2,66
 Unsafe Lane Change,6,14
 Other Movers,74,451
-078TOTAL Movers ,420,5830
+TOTAL Movers,420,5830

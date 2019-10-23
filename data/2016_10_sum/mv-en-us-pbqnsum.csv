@@ -1,7 +1,4 @@
 Queens North,,
-October  ,,
-pbqnsum,,
-"","",""
 Backing Unsafely,8,65
 Brake Lights (Defect.or Improper),7,67
 "Bus Lane, Driving in",4,140
@@ -37,4 +34,4 @@ Unlicensed Operator,720,6640
 Unregistered,51,642
 Unsafe Lane Change,12,130
 Other Movers,915,6386
-PBQNTOTAL Movers ,9633,85330
+TOTAL Movers,9633,85330

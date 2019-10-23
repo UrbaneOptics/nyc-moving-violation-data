@@ -1,7 +1,4 @@
 123rd Precinct,,
-    June ,,
-123sum,,
-"","",""
 Backing Unsafely,1,4
 Brake Lights (Defect.or Improper),3,55
 "Bus Lane, Driving in",0,0
@@ -37,4 +34,4 @@ Unlicensed Operator,81,376
 Unregistered,18,90
 Unsafe Lane Change,1,13
 Other Movers,105,366
-123TOTAL Movers ,1218,6112
+TOTAL Movers,1218,6112

@@ -1,6 +1,4 @@
 77th Precinct,,
-077sum,,
-"","",""
 Backing Unsafely,3,28
 Brake Lights (Defect.or Improper),14,236
 "Bus Lane, Driving in",3,41
@@ -36,4 +34,4 @@ Unlicensed Operator,44,628
 Unregistered,16,127
 Unsafe Lane Change,0,31
 Other Movers,202,1781
-077TOTAL Movers ,1142,13119
+TOTAL Movers,1142,13119
