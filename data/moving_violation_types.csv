@@ -1,4 +1,4 @@
-violation name, count of files found in
+violation name, count of files found in,
 "Backing Unsafely", 8737,
 "Brake Lights (Defect.or  Improper)", 2857,
 "Bus Lane, Driving in", 6850,
@@ -61,6 +61,6 @@ Overwidth, 1887,
 Tints, 1887,
 "TLC (Other)", 1887,
 "Truck Route", 1887,
-"Failure to yield Right of Way to Vehicle", 808
+"Failure to yield Right of Way to Vehicle", 808,
 "Other Movers", 8737,
 "TOTAL Movers", 8737, 
