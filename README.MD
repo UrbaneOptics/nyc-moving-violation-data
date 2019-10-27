@@ -1,10 +1,9 @@
 # NYC Moving Violation Data
-[Work in Progress]  
 NYC takes monthly tallies of every precinct. This data is publicly available via NYC's [Moving Violations and Summonses](https://www1.nyc.gov/site/nypd/stats/traffic-data/traffic-data-moving.page) page. The data formats they provide are Excel(xlsx) and PDF. Unfortunately, the raw data has some improper formatting making it difficult to parse. 
 
 This repository aims to format and present this data in a standardized way to make it easier to parse.  
 (1) CSV files are provided in replacement to the standard Excel files. These CSV files are formatted to remove data that is unnecessary and standardize the format across all months.  
-(2) [WIP] JSON files are provided as well. One JSON file contains an entire months worth of data for all precincts. 
+(2) [Work in progress] JSON files are provided as well. One JSON file contains an entire months worth of data for all precincts. 
 
 The structure of the JSON data is as follows.  
 ```json
@@ -15,6 +14,11 @@ The structure of the JSON data is as follows.
   ...
 }
 ```
+
+## The data 
+The cleaned up moving violation data can be found in the [data/csv](https://github.com/UrbaneOptics/nyc-moving-violation-data/tree/master/data/csv) folder. This contains all of the monthly precinct data in a consistent format.
+
+Data for all of the moving violations the NYPD takes tallys under can be found in the [data/moving_violation_types](https://github.com/UrbaneOptics/nyc-moving-violation-data/blob/master/data/moving_violation_types.csv).
 
 # Notes on data
 On July 2013, the 121st precinct was created. Summons issues prior to that date will be
