@@ -1,5 +1,5 @@
 {
-  "2011_08_sum": {
+  "2011_08": {
     "Backing Unsafely": "5",
     "Brake Lights (Defect.or  Improper)": "87",
     "Bus Lane, Driving in": "269",
@@ -36,7 +36,7 @@
     "Other Movers": "1256",
     "TOTAL Movers": "15739"
   },
-  "2011_09_sum": {
+  "2011_09": {
     "Backing Unsafely": "4",
     "Brake Lights (Defect.or  Improper)": "58",
     "Bus Lane, Driving in": "289",
@@ -73,7 +73,7 @@
     "Other Movers": "1056",
     "TOTAL Movers": "11653"
   },
-  "2011_10_sum": {
+  "2011_10": {
     "Backing Unsafely": "8",
     "Brake Lights (Defect.or  Improper)": "88",
     "Bus Lane, Driving in": "1008",
@@ -110,7 +110,7 @@
     "Other Movers": "1398",
     "TOTAL Movers": "16228"
   },
-  "2011_11_sum": {
+  "2011_11": {
     "Backing Unsafely": "5",
     "Brake Lights (Defect.or  Improper)": "51",
     "Bus Lane, Driving in": "471",
@@ -147,7 +147,7 @@
     "Other Movers": "1360",
     "TOTAL Movers": "13289"
   },
-  "2011_12_sum": {
+  "2011_12": {
     "Backing Unsafely": "6",
     "Brake Lights (Defect.or  Improper)": "63",
     "Bus Lane, Driving in": "77",
@@ -184,7 +184,7 @@
     "Other Movers": "798",
     "TOTAL Movers": "9901"
   },
-  "2012_01_sum": {
+  "2012_01": {
     "Backing Unsafely": "10",
     "Brake Lights (Defect.or  Improper)": "93",
     "Bus Lane, Driving in": "1509",
@@ -221,7 +221,7 @@
     "Other Movers": "2468",
     "TOTAL Movers": "22892"
   },
-  "2012_02_sum": {
+  "2012_02": {
     "Backing Unsafely": "5",
     "Brake Lights (Defect.or  Improper)": "89",
     "Bus Lane, Driving in": "543",
@@ -258,7 +258,7 @@
     "Other Movers": "3243",
     "TOTAL Movers": "21330"
   },
-  "2012_03_sum": {
+  "2012_03": {
     "Backing Unsafely": "2",
     "Brake Lights (Defect.or  Improper)": "57",
     "Bus Lane, Driving in": "374",
@@ -295,7 +295,7 @@
     "Other Movers": "2905",
     "TOTAL Movers": "21313"
   },
-  "2012_04_sum": {
+  "2012_04": {
     "Backing Unsafely": "12",
     "Brake Lights (Defect.or  Improper)": "46",
     "Bus Lane, Driving in": "1837",
@@ -332,7 +332,7 @@
     "Other Movers": "2050",
     "TOTAL Movers": "20674"
   },
-  "2012_05_sum": {
+  "2012_05": {
     "Backing Unsafely": "10",
     "Brake Lights (Defect.or  Improper)": "76",
     "Bus Lane, Driving in": "1129",
@@ -369,7 +369,7 @@
     "Other Movers": "1651",
     "TOTAL Movers": "17086"
   },
-  "2012_06_sum": {
+  "2012_06": {
     "Backing Unsafely": "10",
     "Brake Lights (Defect.or  Improper)": "76",
     "Bus Lane, Driving in": "1129",
@@ -406,7 +406,7 @@
     "Other Movers": "1651",
     "TOTAL Movers": "17086"
   },
-  "2012_07_sum": {
+  "2012_07": {
     "Backing Unsafely": "13",
     "Brake Lights (Defect.or  Improper)": "51",
     "Bus Lane, Driving in": "245",
@@ -443,7 +443,7 @@
     "Other Movers": "2432",
     "TOTAL Movers": "15245"
   },
-  "2012_08_sum": {
+  "2012_08": {
     "Backing Unsafely": "6",
     "Brake Lights (Defect.or  Improper)": "65",
     "Bus Lane, Driving in": "684",
@@ -480,7 +480,7 @@
     "Other Movers": "2258",
     "TOTAL Movers": "16815"
   },
-  "2012_09_sum": {
+  "2012_09": {
     "Backing Unsafely": "3",
     "Brake Lights (Defect.or  Improper)": "41",
     "Bus Lane, Driving in": "456",
@@ -517,7 +517,7 @@
     "Other Movers": "736",
     "TOTAL Movers": "12221"
   },
-  "2012_10_sum": {
+  "2012_10": {
     "Backing Unsafely": "11",
     "Brake Lights (Defect.or  Improper)": "46",
     "Bus Lane, Driving in": "386",
@@ -554,7 +554,7 @@
     "Other Movers": "1067",
     "TOTAL Movers": "13843"
   },
-  "2012_11_sum": {
+  "2012_11": {
     "Backing Unsafely": "5",
     "Brake Lights (Defect.or  Improper)": "4",
     "Bus Lane, Driving in": "14",
@@ -591,7 +591,7 @@
     "Other Movers": "276",
     "TOTAL Movers": "7264"
   },
-  "2012_12_sum": {
+  "2012_12": {
     "Backing Unsafely": "3",
     "Brake Lights (Defect.or  Improper)": "48",
     "Bus Lane, Driving in": "32",
@@ -628,7 +628,7 @@
     "Other Movers": "612",
     "TOTAL Movers": "9779"
   },
-  "2013_01_sum": {
+  "2013_01": {
     "Backing Unsafely": "5",
     "Brake Lights (Defect.or  Improper)": "28",
     "Bus Lane, Driving in": "368",
@@ -665,7 +665,7 @@
     "Other Movers": "2266",
     "TOTAL Movers": "19931"
   },
-  "2013_02_sum": {
+  "2013_02": {
     "Backing Unsafely": "9",
     "Brake Lights (Defect.or  Improper)": "47",
     "Bus Lane, Driving in": "471",
@@ -702,7 +702,7 @@
     "Other Movers": "2703",
     "TOTAL Movers": "18218"
   },
-  "2013_03_sum": {
+  "2013_03": {
     "Backing Unsafely": "5",
     "Brake Lights (Defect.or  Improper)": "42",
     "Bus Lane, Driving in": "789",
@@ -739,7 +739,7 @@
     "Other Movers": "2653",
     "TOTAL Movers": "16991"
   },
-  "2013_04_sum": {
+  "2013_04": {
     "Backing Unsafely": "10",
     "Brake Lights (Defect.or  Improper)": "69",
     "Bus Lane, Driving in": "706",
@@ -776,7 +776,7 @@
     "Other Movers": "3699",
     "TOTAL Movers": "22517"
   },
-  "2013_05_sum": {
+  "2013_05": {
     "Backing Unsafely": "10",
     "Brake Lights (Defect.or  Improper)": "73",
     "Bus Lane, Driving in": "483",
@@ -813,7 +813,7 @@
     "Other Movers": "2897",
     "TOTAL Movers": "20074"
   },
-  "2013_06_sum": {
+  "2013_06": {
     "Backing Unsafely": "25",
     "Brake Lights (Defect.or  Improper)": "52",
     "Bus Lane, Driving in": "156",
@@ -850,7 +850,7 @@
     "Other Movers": "1728",
     "TOTAL Movers": "12270"
   },
-  "2013_07_sum": {
+  "2013_07": {
     "Backing Unsafely": "6",
     "Brake Lights (Defect.or  Improper)": "43",
     "Bus Lane, Driving in": "263",
@@ -887,7 +887,7 @@
     "Other Movers": "2018",
     "TOTAL Movers": "15334"
   },
-  "2013_08_sum": {
+  "2013_08": {
     "Backing Unsafely": "7",
     "Brake Lights (Defect.or  Improper)": "75",
     "Bus Lane, Driving in": "462",
@@ -924,7 +924,7 @@
     "Other Movers": "2449",
     "TOTAL Movers": "15999"
   },
-  "2013_09_sum": {
+  "2013_09": {
     "Backing Unsafely": "7",
     "Brake Lights (Defect.or  Improper)": "54",
     "Bus Lane, Driving in": "415",
@@ -961,7 +961,7 @@
     "Other Movers": "1640",
     "TOTAL Movers": "12634"
   },
-  "2013_10_sum": {
+  "2013_10": {
     "Backing Unsafely": "6",
     "Brake Lights (Defect.or  Improper)": "51",
     "Bus Lane, Driving in": "250",
@@ -998,7 +998,7 @@
     "Other Movers": "1738",
     "TOTAL Movers": "15958"
   },
-  "2013_11_sum": {
+  "2013_11": {
     "Backing Unsafely": "9",
     "Brake Lights (Defect.or  Improper)": "42",
     "Bus Lane, Driving in": "203",
@@ -1035,7 +1035,7 @@
     "Other Movers": "1626",
     "TOTAL Movers": "15555"
   },
-  "2013_12_sum": {
+  "2013_12": {
     "Backing Unsafely": "22",
     "Brake Lights (Defect.or  Improper)": "22",
     "Bus Lane, Driving in": "37",
@@ -1072,7 +1072,7 @@
     "Other Movers": "770",
     "TOTAL Movers": "9222"
   },
-  "2014_01_sum": {
+  "2014_01": {
     "Backing Unsafely": "34",
     "Brake Lights (Defect.or  Improper)": "17",
     "Bus Lane, Driving in": "164",
@@ -1109,7 +1109,7 @@
     "Other Movers": "1426",
     "TOTAL Movers": "12658"
   },
-  "2014_02_sum": {
+  "2014_02": {
     "Backing Unsafely": "49",
     "Brake Lights (Defect.or  Improper)": "39",
     "Bus Lane, Driving in": "136",
@@ -1146,7 +1146,7 @@
     "Other Movers": "1333",
     "TOTAL Movers": "14782"
   },
-  "2014_03_sum": {
+  "2014_03": {
     "Backing Unsafely": "15",
     "Brake Lights (Defect.or  Improper)": "85",
     "Bus Lane, Driving in": "220",
@@ -1183,7 +1183,7 @@
     "Other Movers": "1601",
     "TOTAL Movers": "16141"
   },
-  "2014_04_sum": {
+  "2014_04": {
     "Backing Unsafely": "27",
     "Brake Lights (Defect.or Improper)": "28",
     "Bus Lane, Driving in": "208",
@@ -1220,7 +1220,7 @@
     "Other Movers": "1584",
     "TOTAL Movers": "20397"
   },
-  "2014_05_sum": {
+  "2014_05": {
     "Backing Unsafely": "10",
     "Brake Lights (Defect.or Improper)": "68",
     "Bus Lane, Driving in": "130",
@@ -1257,7 +1257,7 @@
     "Other Movers": "1972",
     "TOTAL Movers": "19000"
   },
-  "2014_06_sum": {
+  "2014_06": {
     "Backing Unsafely": "3",
     "Brake Lights (Defect.or Improper)": "63",
     "Bus Lane, Driving in": "88",
@@ -1294,7 +1294,7 @@
     "Other Movers": "1630",
     "TOTAL Movers": "13393"
   },
-  "2014_07_sum": {
+  "2014_07": {
     "Backing Unsafely": "5",
     "Brake Lights (Defect.or Improper)": "53",
     "Bus Lane, Driving in": "224",
@@ -1331,7 +1331,7 @@
     "Other Movers": "1636",
     "TOTAL Movers": "16579"
   },
-  "2014_08_sum": {
+  "2014_08": {
     "Backing Unsafely": "11",
     "Brake Lights (Defect.or Improper)": "60",
     "Bus Lane, Driving in": "140",
@@ -1368,7 +1368,7 @@
     "Other Movers": "2059",
     "TOTAL Movers": "17877"
   },
-  "2014_09_sum": {
+  "2014_09": {
     "Backing Unsafely": "12",
     "Brake Lights (Defect.or Improper)": "53",
     "Bus Lane, Driving in": "175",
@@ -1405,7 +1405,7 @@
     "Other Movers": "1692",
     "TOTAL Movers": "14137"
   },
-  "2014_10_sum": {
+  "2014_10": {
     "Backing Unsafely": "53",
     "Brake Lights (Defect.or Improper)": "27",
     "Bus Lane, Driving in": "156",
@@ -1442,7 +1442,7 @@
     "Other Movers": "2519",
     "TOTAL Movers": "19650"
   },
-  "2014_11_sum": {
+  "2014_11": {
     "Backing Unsafely": "37",
     "Brake Lights (Defect.or Improper)": "35",
     "Bus Lane, Driving in": "122",
@@ -1479,7 +1479,7 @@
     "Other Movers": "2277",
     "TOTAL Movers": "16200"
   },
-  "2014_12_sum": {
+  "2014_12": {
     "Backing Unsafely": "13",
     "Brake Lights (Defect.or Improper)": "30",
     "Bus Lane, Driving in": "30",
@@ -1516,7 +1516,7 @@
     "Other Movers": "876",
     "TOTAL Movers": "8259"
   },
-  "2015_01_sum": {
+  "2015_01": {
     "Backing Unsafely": "18",
     "Brake Lights (Defect.or Improper)": "30",
     "Bus Lane, Driving in": "77",
@@ -1553,7 +1553,7 @@
     "Other Movers": "1076",
     "TOTAL Movers": "13788"
   },
-  "2015_02_sum": {
+  "2015_02": {
     "Backing Unsafely": "8",
     "Brake Lights (Defect.or Improper)": "59",
     "Bus Lane, Driving in": "195",
@@ -1590,7 +1590,7 @@
     "Other Movers": "2291",
     "TOTAL Movers": "17141"
   },
-  "2015_03_sum": {
+  "2015_03": {
     "Backing Unsafely": "9",
     "Brake Lights (Defect.or Improper)": "97",
     "Bus Lane, Driving in": "170",
@@ -1627,7 +1627,7 @@
     "Other Movers": "2046",
     "TOTAL Movers": "16521"
   },
-  "2015_04_sum": {
+  "2015_04": {
     "Backing Unsafely": "14",
     "Brake Lights (Defect.or Improper)": "57",
     "Bus Lane, Driving in": "252",
@@ -1664,7 +1664,7 @@
     "Other Movers": "2125",
     "TOTAL Movers": "21551"
   },
-  "2015_05_sum": {
+  "2015_05": {
     "Backing Unsafely": "8",
     "Brake Lights (Defect.or Improper)": "31",
     "Bus Lane, Driving in": "89",
@@ -1701,7 +1701,7 @@
     "Other Movers": "1812",
     "TOTAL Movers": "16911"
   },
-  "2015_06_sum": {
+  "2015_06": {
     "Backing Unsafely": "3",
     "Brake Lights (Defect.or Improper)": "94",
     "Bus Lane, Driving in": "179",
@@ -1738,7 +1738,7 @@
     "Other Movers": "2118",
     "TOTAL Movers": "17778"
   },
-  "2015_07_sum": {
+  "2015_07": {
     "Backing Unsafely": "13",
     "Brake Lights (Defect.or Improper)": "78",
     "Bus Lane, Driving in": "289",
@@ -1775,7 +1775,7 @@
     "Other Movers": "2558",
     "TOTAL Movers": "19432"
   },
-  "2015_08_sum": {
+  "2015_08": {
     "Backing Unsafely": "8",
     "Brake Lights (Defect.or Improper)": "61",
     "Bus Lane, Driving in": "228",
@@ -1812,7 +1812,7 @@
     "Other Movers": "2596",
     "TOTAL Movers": "19548"
   },
-  "2015_09_sum": {
+  "2015_09": {
     "Backing Unsafely": "11",
     "Brake Lights (Defect.or Improper)": "90",
     "Bus Lane, Driving in": "185",
@@ -1849,7 +1849,7 @@
     "Other Movers": "2618",
     "TOTAL Movers": "14798"
   },
-  "2015_10_sum": {
+  "2015_10": {
     "Backing Unsafely": "16",
     "Brake Lights (Defect.or Improper)": "86",
     "Bus Lane, Driving in": "163",
@@ -1886,7 +1886,7 @@
     "Other Movers": "3009",
     "TOTAL Movers": "19802"
   },
-  "2015_11_sum": {
+  "2015_11": {
     "Backing Unsafely": "6",
     "Brake Lights (Defect.or Improper)": "68",
     "Bus Lane, Driving in": "126",
@@ -1923,7 +1923,7 @@
     "Other Movers": "2463",
     "TOTAL Movers": "17269"
   },
-  "2015_12_sum": {
+  "2015_12": {
     "Backing Unsafely": "8",
     "Brake Lights (Defect.or Improper)": "55",
     "Bus Lane, Driving in": "18",
@@ -1960,7 +1960,7 @@
     "Other Movers": "1336",
     "TOTAL Movers": "11999"
   },
-  "2016_01_sum": {
+  "2016_01": {
     "Backing Unsafely": "8",
     "Brake Lights (Defect.or Improper)": "50",
     "Bus Lane, Driving in": "322",
@@ -1997,7 +1997,7 @@
     "Other Movers": "2206",
     "TOTAL Movers": "20474"
   },
-  "2016_02_sum": {
+  "2016_02": {
     "Backing Unsafely": "16",
     "Brake Lights (Defect.or Improper)": "111",
     "Bus Lane, Driving in": "305",
@@ -2034,7 +2034,7 @@
     "Other Movers": "2757",
     "TOTAL Movers": "20296"
   },
-  "2016_03_sum": {
+  "2016_03": {
     "Backing Unsafely": "6",
     "Brake Lights (Defect.or Improper)": "118",
     "Bus Lane, Driving in": "241",
@@ -2071,7 +2071,7 @@
     "Other Movers": "2777",
     "TOTAL Movers": "18802"
   },
-  "2016_04_sum": {
+  "2016_04": {
     "Backing Unsafely": "6",
     "Brake Lights (Defect.or Improper)": "89",
     "Bus Lane, Driving in": "114",
@@ -2108,7 +2108,7 @@
     "Other Movers": "2386",
     "TOTAL Movers": "19139"
   },
-  "2016_05_sum": {
+  "2016_05": {
     "Backing Unsafely": "6",
     "Brake Lights (Defect.or Improper)": "115",
     "Bus Lane, Driving in": "77",
@@ -2146,7 +2146,7 @@
     "Other Movers": "2033",
     "TOTAL Movers": "16535"
   },
-  "2016_06_sum": {
+  "2016_06": {
     "Backing Unsafely": "7",
     "Brake Lights (Defect.or Improper)": "97",
     "Bus Lane, Driving in": "57",
@@ -2184,7 +2184,7 @@
     "Other Movers": "1853",
     "TOTAL Movers": "16066"
   },
-  "2016_07_sum": {
+  "2016_07": {
     "Backing Unsafely": "10",
     "Brake Lights (Defect.or Improper)": "96",
     "Bus Lane, Driving in": "18",
@@ -2222,7 +2222,7 @@
     "Other Movers": "1601",
     "TOTAL Movers": "11886"
   },
-  "2016_08_sum": {
+  "2016_08": {
     "Backing Unsafely": "5",
     "Brake Lights (Defect.or Improper)": "89",
     "Bus Lane, Driving in": "22",
@@ -2260,7 +2260,7 @@
     "Other Movers": "1515",
     "TOTAL Movers": "10634"
   },
-  "2016_09_sum": {
+  "2016_09": {
     "Backing Unsafely": "13",
     "Brake Lights (Defect.or Improper)": "19",
     "Bus Lane, Driving in": "25",
@@ -2298,7 +2298,7 @@
     "Other Movers": "1544",
     "TOTAL Movers": "12481"
   },
-  "2016_10_sum": {
+  "2016_10": {
     "Backing Unsafely": "6",
     "Brake Lights (Defect.or Improper)": "28",
     "Bus Lane, Driving in": "24",
@@ -2336,7 +2336,7 @@
     "Other Movers": "2154",
     "TOTAL Movers": "20362"
   },
-  "2016_11_sum": {
+  "2016_11": {
     "Backing Unsafely": "2",
     "Brake Lights (Defect.or Improper)": "55",
     "Bus Lane, Driving in": "17",
@@ -2374,7 +2374,7 @@
     "Other Movers": "1326",
     "TOTAL Movers": "14152"
   },
-  "2016_12_sum": {
+  "2016_12": {
     "Backing Unsafely": "10",
     "Brake Lights (Defect.or Improper)": "20",
     "Bus Lane, Driving in": "9",
@@ -2412,7 +2412,7 @@
     "Other Movers": "1129",
     "TOTAL Movers": "13085"
   },
-  "2017_01_sum": {
+  "2017_01": {
     "Backing Unsafely": "4",
     "Brake Lights (Defect.or Improper)": "28",
     "Bus Lane, Driving in": "28",
@@ -2450,7 +2450,7 @@
     "Other Movers": "1604",
     "TOTAL Movers": "16918"
   },
-  "2017_02_sum": {
+  "2017_02": {
     "Backing Unsafely": "4",
     "Brake Lights (Defect.or Improper)": "30",
     "Bus Lane, Driving in": "40",
@@ -2488,7 +2488,7 @@
     "Other Movers": "2008",
     "TOTAL Movers": "17021"
   },
-  "2017_03_sum": {
+  "2017_03": {
     "Backing Unsafely": "16",
     "Brake Lights (Defect.or Improper)": "78",
     "Bus Lane, Driving in": "212",
@@ -2527,7 +2527,7 @@
     "Other Movers": "2362",
     "TOTAL Movers": "17914"
   },
-  "2017_04_sum": {
+  "2017_04": {
     "Backing Unsafely": "10",
     "Brake Lights (Defect.or Improper)": "121",
     "Bus Lane, Driving in": "188",
@@ -2566,7 +2566,7 @@
     "Other Movers": "2207",
     "TOTAL Movers": "18530"
   },
-  "2017_05_sum": {
+  "2017_05": {
     "Backing Unsafely": "16",
     "Brake Lights (Defect.or Improper)": "88",
     "Bus Lane, Driving in": "97",
@@ -2605,7 +2605,7 @@
     "Other Movers": "2190",
     "TOTAL Movers": "16423"
   },
-  "2017_06_sum": {
+  "2017_06": {
     "Backing Unsafely": "4",
     "Brake Lights (Defect.or Improper)": "89",
     "Bus Lane, Driving in": "210",
@@ -2644,7 +2644,7 @@
     "Other Movers": "2282",
     "TOTAL Movers": "16997"
   },
-  "2017_07_sum": {
+  "2017_07": {
     "Backing Unsafely": "4",
     "Brake Lights (Defect.or Improper)": "81",
     "Bus Lane, Driving in": "85",
@@ -2683,7 +2683,7 @@
     "Other Movers": "2053",
     "TOTAL Movers": "15909"
   },
-  "2017_08_sum": {
+  "2017_08": {
     "Backing Unsafely": "13",
     "Brake Lights (Defect.or Improper)": "91",
     "Bus Lane, Driving in": "211",
@@ -2722,7 +2722,7 @@
     "Other Movers": "2440",
     "TOTAL Movers": "16788"
   },
-  "2017_09_sum": {
+  "2017_09": {
     "Backing Unsafely": "6",
     "Brake Lights (Defect.or Improper)": "77",
     "Bus Lane, Driving in": "188",
@@ -2761,7 +2761,7 @@
     "Other Movers": "1818",
     "TOTAL Movers": "13199"
   },
-  "2017_10_sum": {
+  "2017_10": {
     "Backing Unsafely": "5",
     "Brake Lights (Defect.or Improper)": "69",
     "Bus Lane, Driving in": "64",
@@ -2800,7 +2800,7 @@
     "Other Movers": "2310",
     "TOTAL Movers": "16901"
   },
-  "2017_11_sum": {
+  "2017_11": {
     "Backing Unsafely": "7",
     "Brake Lights (Defect.or Improper)": "73",
     "Bus Lane, Driving in": "155",
@@ -2839,7 +2839,7 @@
     "Other Movers": "2221",
     "TOTAL Movers": "17132"
   },
-  "2017_12_sum": {
+  "2017_12": {
     "Backing Unsafely": "2",
     "Brake Lights (Defect.or Improper)": "37",
     "Bus Lane, Driving in": "2",
@@ -2878,7 +2878,7 @@
     "Other Movers": "1221",
     "TOTAL Movers": "9704"
   },
-  "2018_01_sum": {
+  "2018_01": {
     "Backing Unsafely": "10",
     "Bike Lane": "1",
     "Bus Lane": "253",
@@ -2926,7 +2926,7 @@
     "Other Movers": "1556",
     "TOTAL Movers": "21601"
   },
-  "2018_02_sum": {
+  "2018_02": {
     "Backing Unsafely": "17",
     "Bike Lane": "1",
     "Bus Lane": "1228",
@@ -2974,7 +2974,7 @@
     "Other Movers": "1792",
     "TOTAL Movers": "25293"
   },
-  "2018_03_sum": {
+  "2018_03": {
     "Backing Unsafely": "12",
     "Bike Lane": "4",
     "Bus Lane": "1454",
@@ -3022,7 +3022,7 @@
     "Other Movers": "1989",
     "TOTAL Movers": "27838"
   },
-  "2018_04_sum": {
+  "2018_04": {
     "Backing Unsafely": "14",
     "Bike Lane": "2",
     "Bus Lane": "643",
@@ -3070,7 +3070,7 @@
     "Other Movers": "1851",
     "TOTAL Movers": "23319"
   },
-  "2018_05_sum": {
+  "2018_05": {
     "Backing Unsafely": "16",
     "Bike Lane": "9",
     "Bus Lane": "764",
@@ -3118,7 +3118,7 @@
     "Other Movers": "1883",
     "TOTAL Movers": "24540"
   },
-  "2018_06_sum": {
+  "2018_06": {
     "Backing Unsafely": "13",
     "Bike Lane": "12",
     "Bus Lane": "396",
@@ -3166,7 +3166,7 @@
     "Other Movers": "1692",
     "TOTAL Movers": "20147"
   },
-  "2018_07_sum": {
+  "2018_07": {
     "Backing Unsafely": "11",
     "Bike Lane": "4",
     "Bus Lane": "323",
@@ -3214,7 +3214,7 @@
     "Other Movers": "1259",
     "TOTAL Movers": "19222"
   },
-  "2018_08_sum": {
+  "2018_08": {
     "Backing Unsafely": "5",
     "Bike Lane": "2",
     "Bus Lane": "58",
@@ -3262,7 +3262,7 @@
     "Other Movers": "1023",
     "TOTAL Movers": "14781"
   },
-  "2018_09_sum": {
+  "2018_09": {
     "Backing Unsafely": "5",
     "Bike Lane": "2",
     "Bus Lane": "58",
@@ -3310,7 +3310,7 @@
     "Other Movers": "1023",
     "TOTAL Movers": "14781"
   },
-  "2018_10_sum": {
+  "2018_10": {
     "Backing Unsafely": "4",
     "Bike Lane": "2",
     "Bus Lane": "173",
@@ -3358,7 +3358,7 @@
     "Other Movers": "1531",
     "TOTAL Movers": "20983"
   },
-  "2018_11_sum": {
+  "2018_11": {
     "Backing Unsafely": "10",
     "Bike Lane": "3",
     "Bus Lane": "167",
@@ -3406,7 +3406,7 @@
     "Other Movers": "1333",
     "TOTAL Movers": "19330"
   },
-  "2018_12_sum": {
+  "2018_12": {
     "Backing Unsafely": "6",
     "Bike Lane": "6",
     "Bus Lane": "178",
@@ -3454,7 +3454,7 @@
     "Other Movers": "993",
     "TOTAL Movers": "12398"
   },
-  "2019_01_sum": {
+  "2019_01": {
     "Backing Unsafely": "11",
     "Bike Lane": "1",
     "Bus Lane": "221",
@@ -3503,7 +3503,7 @@
     "Other Movers": "1231",
     "TOTAL Movers": "20948"
   },
-  "2019_02_sum": {
+  "2019_02": {
     "Backing Unsafely": "7",
     "Bike Lane": "3",
     "Bus Lane": "288",
@@ -3552,7 +3552,7 @@
     "Other Movers": "1426",
     "TOTAL Movers": "21935"
   },
-  "2019_03_sum": {
+  "2019_03": {
     "Backing Unsafely": "23",
     "Bike Lane": "7",
     "Bus Lane": "448",
@@ -3601,7 +3601,7 @@
     "Other Movers": "1964",
     "TOTAL Movers": "26021"
   },
-  "2019_04_sum": {
+  "2019_04": {
     "Backing Unsafely": "12",
     "Bike Lane": "6",
     "Bus Lane": "155",
@@ -3650,7 +3650,7 @@
     "Other Movers": "1638",
     "TOTAL Movers": "21434"
   },
-  "2019_05_sum": {
+  "2019_05": {
     "Backing Unsafely": "16",
     "Bike Lane": "2",
     "Bus Lane": "42",
@@ -3699,7 +3699,7 @@
     "Other Movers": "1752",
     "TOTAL Movers": "21230"
   },
-  "2019_06_sum": {
+  "2019_06": {
     "Backing Unsafely": "6",
     "Bike Lane": "15",
     "Bus Lane": "304",
@@ -3748,7 +3748,7 @@
     "Other Movers": "1590",
     "TOTAL Movers": "19688"
   },
-  "2019_07_sum": {
+  "2019_07": {
     "Backing Unsafely": "19",
     "Bike Lane": "14",
     "Bus Lane": "43",
@@ -3797,7 +3797,7 @@
     "Other Movers": "1681",
     "TOTAL Movers": "20428"
   },
-  "2019_08_sum": {
+  "2019_08": {
     "Backing Unsafely": "6",
     "Bike Lane": "8",
     "Bus Lane": "146",
@@ -3846,7 +3846,7 @@
     "Other Movers": "1900",
     "TOTAL Movers": "19241"
   },
-  "2019_09_sum": {
+  "2019_09": {
     "Backing Unsafely": "11",
     "Bike Lane": "4",
     "Bus Lane": "145",
