@@ -17,12 +17,16 @@ Data for years 2011-2019 appears to be fully normalized in CSV format. These CSV
 
 The process for normalizing a dataset is currently
 ```
-cd <folder>
-sh ../../scripts/excel_to_csv.sh 
-sh ../../scripts/format_csv_files.sh
+Steps:
+1) Manually rename folder to standard format.
+2) cd into folder
+3) run sh ../../../scripts/excel_to_csv.sh
+4) run sh ../../../scripts/format_csv_files.sh
+5) cd back to /csv folder
+6) run sh ../../scripts/remove_filename_prefix.sh 
 ```
 
-To process all folders, from the `/data/ directory, run the following:
+[Deprecated] To process all folders, from the `/data/ directory, run the following:
 ```
 folders=(*.csv)
 for i in "${folders[@]}"
