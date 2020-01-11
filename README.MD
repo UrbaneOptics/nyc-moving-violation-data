@@ -15,7 +15,7 @@ On July 2013, the 121st precinct was created. Summons issues prior to that date 
 reflected in the totals for the 120th or 122nd precinct, depending on where they were issuedThe 121st precinct will only have totals from July 2013 onwards.# Progress
 Data for years 2011-2019 appears to be fully normalized in CSV format. These CSVs should be able to be processed in a standard fashion.If you notice any issues with the data, please open a ticket or e-mail joe@urbaneoptics.com
 
-The process for normalizing a dataset is currently
+The process for importing and normalizing a dataset is currently
 ```
 Steps:
 1) Manually rename folder to standard format.
@@ -25,6 +25,12 @@ Steps:
 5) cd back to /csv folder
 6) run sh ../../scripts/remove_filename_prefix.sh 
 ```
+
+After a new dataset has been imported, violation names and precincts need to be updated. The JSON file generated
+helps us see how often violation names are used, and how precincts are represented. Violation names used change over time, and occasionally precinct names as well. For example, the Midtown North Precinct is represented as both `MTN` and `Midtown North` at different times.
+
+1) cd into the /csv folder 
+2) Run `sh update_violations_and_precincts.sh` to generate a JSON containing all the violations and precinct names
 
 [Deprecated] To process all folders, from the `/data/ directory, run the following:
 ```
