@@ -32,6 +32,21 @@ helps us see how often violation names are used, and how precincts are represent
 1) cd into the /csv folder 
 2) Run `sh update_violations_and_precincts.sh` to generate a JSON containing all the violations and precinct names
 
+
+To update all aggregates
+
+```
+folders=(*)              
+for i in "${folders[@]}"
+do     
+cd $i             
+csv_files=(*.csv)
+cd ..                      
+for j in "${csv_files[@]}"                          
+  ruby ../../scripts/retrieve_violation_count.rb $j
+done
+```
+
 [Deprecated] To process all folders, from the `/data/ directory, run the following:
 ```
 folders=(*.csv)
